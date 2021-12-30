@@ -6,3 +6,5 @@ read-xls.sh | grep <sample_name> > input.txt
 ```
 run-fastChIP.pl input.txt
 ```
+
+## Output Examples
