@@ -7,7 +7,7 @@ December 2021
     assumes MACS output present in the SampleName/ directory with this format:
         bed1path=${DATA_HOME}/${sample1}/MACS_${pValue}/${sample1}.clean.bed
 ### (2)	Configure bedCovComp
-    a.	Use codebuilder, go to the “bedCov_Spiked” tab.  
+    a.  Use codebuilder, go to the “bedCov_Spiked” tab.  
         Gryder Lab location: \\ads.case.edu\rc\SOM_GENE_BEG33\ChIP_seq\hg38\scripts\multisample_analysis\bedCovComp_builder.xlsx
         Github copy: 
     b.  Add your sample names, sample file names, MACS p value (ie, p-14)
