@@ -1,8 +1,11 @@
 # ChIPseqPipe
-Components of an automated ChIPseq and ATACseq pipeline
+Components of an automated ChIPseq and ATACseq pipeline:
 
-Downstream pipeline components available here:
-https://github.com/CBIIT/ChIP_seq
+# Bed Coverage Comparison between 2 ChIP-seq datasets
+added by Berkley E. Gryder, December 2021
+
+Scripts and code protocol for bedCovComp ChIP-seq or CUT&RUN data
+https://github.com/ ...
 
 # Calculating RNA Pol2 Traveling Ratio
 added by Berkley E. Gryder, March 2020
