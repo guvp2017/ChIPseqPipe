@@ -19,5 +19,5 @@ December 2021
  
  
 ## Example output
-<a href="url"><img src="bedCovComp.png" align="left" height="96" width="48" ></a>
+
     
