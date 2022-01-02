@@ -20,5 +20,5 @@ December 2021
  
 ## Example output
 <a href="https://github.com/guvp2017/ChIPseqPipe/blob/master/bedCovComp/bedCovCompExample.png"> 
-<p align="center"> <img width="600" height="200" src="bedCovCompExample.png" height="800" width="400"></p>
+<p align="center"> <img width="400" height="800" src="bedCovCompExample.png"></p>
 
