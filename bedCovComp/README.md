@@ -1,5 +1,5 @@
 # Protocol for running BedCovComp
-by Berkley E. Gryder and Shanging Gu 
+by Berkley E. Gryder and Shanqing Gu 
 December 2021
 
 ### (1)	Generate high quality ChIP-seq or CUT&RUN data +/- a treatment condition
