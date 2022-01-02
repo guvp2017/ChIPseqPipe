@@ -19,4 +19,4 @@ December 2021
  
  
 ## Example output
-<a href="https://github.com/guvp2017/ChIPseqPipe/blob/master/bedCovComp/bedCovCompExample.png"><img src="bedCovCompExample.png" align="mid" height="800" width="400" ></a>
+<a href="https://github.com/guvp2017/ChIPseqPipe/blob/master/bedCovComp/bedCovCompExample.png"><img src="bedCovCompExample.png" align="center" height="800" width="400" ></a>
